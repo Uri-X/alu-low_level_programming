@@ -1,1 +1,1 @@
-C - Hello, World
+This contains basic c programming projects
