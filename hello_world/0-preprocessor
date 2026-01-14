@@ -1,4 +1,2 @@
 #!/bin/bash
-# Preprocess C file into output 'c'
-gcc -E "$CFILE" -o c -P
-
+gcc -E "$CFILE" -o c
